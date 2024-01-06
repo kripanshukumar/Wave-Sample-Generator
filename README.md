@@ -30,3 +30,4 @@ INMP441	Omnidirectional Microphone with Bottom Port and I2 S Digital Output
 9.	Project Integration: Integrating multiple components (Wi-Fi, SD card, I2S, LED) into a cohesive system. Ensuring proper interaction between hardware and software components.
 
 # Schematics:
+<img src="https://github.com/kripanshukumar/Wave-Sample-Generator/blob/main/Image/Schematics.png" width=37% height=37%>
