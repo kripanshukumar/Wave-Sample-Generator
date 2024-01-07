@@ -3,6 +3,7 @@ This project implements an audio recording system using the ESP32 microcontrolle
 
 # Parts Used:
 ESP32	32-bit dual core MCU clocked at 320Mhz
+
 INMP441	Omnidirectional Microphone with Bottom Port and I2 S Digital Output
 
 # Operation:
