@@ -2,9 +2,7 @@
 This project implements an audio recording system using the ESP32 microcontroller, combining real-time clock synchronization, I2S interface for audio input, and SD card storage for efficient data handling.
 
 # Parts Used:
-ESP32	32-bit dual core MCU clocked at 320Mhz
-
-INMP441	Omnidirectional Microphone with Bottom Port and I2 S Digital Output
+ESP32	32-bit dual-core MCU clocked at 320Mhz, INMP441	Omnidirectional Microphone with Bottom Port and I2S Digital Output
 
 # Operation:
 •	The system utilizes an I2S interface for continuous audio data capture.
